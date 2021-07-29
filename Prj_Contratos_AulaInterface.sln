@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj_Contratos_AulaInterface", "Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface.csproj", "{A27BFDAB-88C5-42F2-ABA5-D84DD64F11F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27BFDAB-88C5-42F2-ABA5-D84DD64F11F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27BFDAB-88C5-42F2-ABA5-D84DD64F11F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27BFDAB-88C5-42F2-ABA5-D84DD64F11F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27BFDAB-88C5-42F2-ABA5-D84DD64F11F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88E3838C-00BD-4322-8A2D-BAB7DED0E33B}
+	EndGlobalSection
+EndGlobal

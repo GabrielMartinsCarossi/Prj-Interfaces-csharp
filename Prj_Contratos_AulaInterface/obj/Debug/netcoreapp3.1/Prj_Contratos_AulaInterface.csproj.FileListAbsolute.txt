@@ -1,0 +1,13 @@
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\bin\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.exe
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\bin\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.deps.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\bin\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.runtimeconfig.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\bin\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.runtimeconfig.dev.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\bin\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.dll
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\bin\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.pdb
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\obj\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.csproj.AssemblyReference.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\obj\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\obj\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.AssemblyInfo.cs
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\obj\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\obj\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.dll
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\obj\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.pdb
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Prj_Contratos_AulaInterface\Prj_Contratos_AulaInterface\obj\Debug\netcoreapp3.1\Prj_Contratos_AulaInterface.genruntimeconfig.cache
